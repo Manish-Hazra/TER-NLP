@@ -1,0 +1,12 @@
+body{
+    margin:0px !important;
+    padding:0px !important;
+    box-sizing: border-box;
+}
+.container {
+    width: 40%;
+}
+.container-fluid div {
+    display: flex;
+    justify-content: space-around;
+}
